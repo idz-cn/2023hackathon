@@ -6,5 +6,5 @@ Welcome to the Intel<sup>&reg;</sup> Hackathon repo! This repo contains notebook
 
 ## 目录 | Table of Contents
 - [英特尔黑客松2023 | Intel<sup>&reg;</sup> Hackathon 2023](2023hackathon)
-    - [计算机视觉（CV）赛道 | Computer Vision (CV) Track](2023hackathon/computer-vision-track)
-    - [机器学习（ML）赛道 | Machine Learning (ML) Track](2023hackathon/machine-learning-track)
+    - [计算机视觉（CV）赛道 | Computer Vision (CV) Track](computer-vision-track)
+    - [机器学习（ML）赛道 | Machine Learning (ML) Track](machine-learning-track)
